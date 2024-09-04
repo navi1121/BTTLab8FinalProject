@@ -1,5 +1,4 @@
-# **Lab 8 - Final Project**
-NLP binary classification plus evaluation methods
+# **BTT Machine Learning Lab 8 - Final Project**
+Implementation of NLP binary classification and various evaluation methods of the model
 
-
-Cornell Machine Learning Course
+Cornell BTT Machine Learning Course
